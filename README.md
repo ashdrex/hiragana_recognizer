@@ -1,5 +1,4 @@
 # Hiragana Recognizer
-![](HIRAGANA_RECORDING.gif)
 
 ## Table of Contents
 * Demo
